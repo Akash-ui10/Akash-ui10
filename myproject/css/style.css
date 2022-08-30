@@ -1,0 +1,39 @@
+body {
+	background: url(../images/Best-Games-to-Play-on-High.jpg);
+	background-position: center;
+	background-attachment: fixed;
+	-webkit-background-size: cover;  
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+#container{
+	background-color:transparent;
+	height: 750px;
+	width: 424px;
+	color: white;
+	padding: 19px;
+
+}
+h1 {
+	font-size: 80px;
+	color:beige;
+}
+h2{
+	background:transparent;
+	color: red;
+	border-radius: 8px;
+	padding-left: 25px;
+}
+p{
+	font-family:cursive;
+	color: yellow;
+}
+a{
+	color:#71c1f6;
+	text-decoration: none;
+}
+pre{
+	font-size: larger;
+}
+
